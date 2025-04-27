@@ -1,4 +1,4 @@
 b3log/siyuan
 crazymax/flarum
 whyour/qinglong
-certimate/server:1.2.3
+certimate/server
